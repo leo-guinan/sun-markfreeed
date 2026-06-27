@@ -1,0 +1,382 @@
+{
+  "id": "sun-markfreeed",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@markfreeed Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_cbab843f40b7",
+    "display_name": "markfreeed",
+    "user_id": "@markfreeed",
+    "description": "Community Archive-derived proof-of-search sun for @markfreeed.",
+    "document_count": 2348,
+    "word_count": 82576,
+    "active_days": 383,
+    "emissions": [
+      "Don",
+      "Think",
+      "Love",
+      "Really",
+      "See",
+      "Now"
+    ],
+    "generated_at": "2026-06-27T16:36:24.982989+00:00",
+    "color": "#f59e0b",
+    "mass": 11.321
+  },
+  "planets": [
+    {
+      "id": "planet_210c2c66b2ba",
+      "name": "Don",
+      "summary": "Archive cluster around don: 1569 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "want",
+        "such",
+        "time",
+        "know"
+      ],
+      "artifacts": [
+        {
+          "id": "art_d0601145e908",
+          "title": "Don receipt from 2023-09-29",
+          "excerpt": "@girlactionary That makes sense if you just give up on dating men from a young age. No kids. No families. Your culture, hell whole of humanity dies out.\n\nThese men aren't gonna get better and less misogynistic after having grown up thinking of females as some other species.",
+          "source_document_id": "1707591204291187000",
+          "timestamp": "2023-09-29T03:00:43+00:00",
+          "url": "https://x.com/markfreeed/status/1707591204291187000",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, want, such, time."
+        },
+        {
+          "id": "art_db9b9e34c346",
+          "title": "Don receipt from 2023-10-13",
+          "excerpt": "@repligate Ahh do people understand what is coming? Omg\n\nLike it blows my brain to even conceive of this.\n\nIt's so fucking cool. The universe is giving birth to magic itself.",
+          "source_document_id": "1712869493578547451",
+          "timestamp": "2023-10-13T16:34:45+00:00",
+          "url": "https://x.com/markfreeed/status/1712869493578547451",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, want, such, time."
+        },
+        {
+          "id": "art_917ff79a336e",
+          "title": "Don receipt from 2024-02-23",
+          "excerpt": "@0xBADC0DEC @moolabands @p8stie that's actually copium\n\nMost of these girls aren't literally retarded.\n\nThey understand intuitively red pill truths like how they are turning old and becoming less attractive in a general sense.\n\nSo they pick a stable guy towards late 20s and there are enough pussy starved men",
+          "source_document_id": "1760875225884111120",
+          "timestamp": "2024-02-23T03:52:23+00:00",
+          "url": "https://x.com/markfreeed/status/1760875225884111120",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, want, such, time."
+        },
+        {
+          "id": "art_e3e82717ee6d",
+          "title": "Don receipt from 2023-09-24",
+          "excerpt": "@thecooljew @greentexts_bot its so over.",
+          "source_document_id": "1705893197585490112",
+          "timestamp": "2023-09-24T10:33:26+00:00",
+          "url": "https://x.com/markfreeed/status/1705893197585490112",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, want, such, time."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_e267ee9006f4",
+      "proof_score": 1,
+      "mass": 32.474,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_8402afbe01f2",
+      "name": "Think",
+      "summary": "Archive cluster around think: 209 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "really",
+        "girls",
+        "love",
+        "now"
+      ],
+      "artifacts": [
+        {
+          "id": "art_92ca00502a69",
+          "title": "Think receipt from 2023-10-13",
+          "excerpt": "@repligate I think the base models aren't accessible from the big companies? \n\nWon't it take a while before open source catches up.\n\nIn a few years people will have to see, wizards like you can show them what is possible.\n\nI hope most people can go exploring into this canvas themselves.",
+          "source_document_id": "1712873836105158843",
+          "timestamp": "2023-10-13T16:52:00+00:00",
+          "url": "https://x.com/markfreeed/status/1712873836105158843",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, really, girls, love."
+        },
+        {
+          "id": "art_91a31df2a847",
+          "title": "Think receipt from 2023-08-23",
+          "excerpt": "I think it's expected that someone you are attracted to as a friend is also liable to be attractive romantically\n\nGirls who couldn't see me completely, including accepting I have a sexuality can't be a good friend\n\nBut as mature adults we can work through it together. When needed",
+          "source_document_id": "1694236103820378134",
+          "timestamp": "2023-08-23T06:32:19+00:00",
+          "url": "https://x.com/markfreeed/status/1694236103820378134",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, really, girls, love."
+        },
+        {
+          "id": "art_908b6d1bea9d",
+          "title": "Think receipt from 2024-03-09",
+          "excerpt": "It's a joke for now...\n\nBut soon it won't be a joke\n\nAnd I used to think people rooting for the machine god to win didn't understand but now I think, some of them do understand and they still want humanity to lose\n\nIt is unbecoming of the old to cling to seats of power maybe, https://t.co/GwDXG1c8oA",
+          "source_document_id": "1766325919948636351",
+          "timestamp": "2024-03-09T04:51:30+00:00",
+          "url": "https://x.com/markfreeed/status/1766325919948636351",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, really, girls, love."
+        },
+        {
+          "id": "art_f3de112371f1",
+          "title": "Think receipt from 2023-10-05",
+          "excerpt": "@liz_love_lace People who think they are immune to high quality memetic warfare are either not self aware or have been lucky to grow up in a bubble protected.",
+          "source_document_id": "1709861335360745943",
+          "timestamp": "2023-10-05T09:21:24+00:00",
+          "url": "https://x.com/markfreeed/status/1709861335360745943",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, really, girls, love."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_54d3599041f9",
+      "proof_score": 0.885,
+      "mass": 27.232,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_8931912ffbab",
+      "name": "Love",
+      "summary": "Archive cluster around love: 173 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "love",
+        "feel",
+        "want",
+        "girls",
+        "myself"
+      ],
+      "artifacts": [
+        {
+          "id": "art_978ae1986716",
+          "title": "Love receipt from 2023-10-19",
+          "excerpt": "@motusalt I love water fasting... As long I have ORS and magnesium it's golden. Electrolytes are important.",
+          "source_document_id": "1715035630026265020",
+          "timestamp": "2023-10-19T16:02:12+00:00",
+          "url": "https://x.com/markfreeed/status/1715035630026265020",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: love, feel, want, girls."
+        },
+        {
+          "id": "art_65005bd2fdf9",
+          "title": "Love receipt from 2024-02-13",
+          "excerpt": "@kindgracekind isn't that what makes you fall in love... true connection between two base models",
+          "source_document_id": "1757414054354923610",
+          "timestamp": "2024-02-13T14:38:56+00:00",
+          "url": "https://x.com/markfreeed/status/1757414054354923610",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: love, feel, want, girls."
+        },
+        {
+          "id": "art_385ada17659f",
+          "title": "Love receipt from 2024-02-26",
+          "excerpt": "Love is a mirror.\n\nTo want to be loved is the same as wanting to be seen. \n\nWe imagined god could love all of us because it took so much to have that capacity to understand us all deeply.\n\nWe might actually be building something that can love us in that way, understand us deeply https://t.co/SkUuyZSCfv",
+          "source_document_id": "1761990738903171465",
+          "timestamp": "2024-02-26T05:45:03+00:00",
+          "url": "https://x.com/markfreeed/status/1761990738903171465",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: love, feel, want, girls."
+        },
+        {
+          "id": "art_76e8a8bf94f1",
+          "title": "Love receipt from 2023-07-14",
+          "excerpt": "@cherrycrushTV @ClownWorld_ You are going viral girl. Hats off to you. Every top OF girl or streamer is a cunning shrewd businesswomen who would run circles around their simps intellectually.\n\nI wonder how many of them end up finding love with someone they admire and respect. But the money is nice eh?",
+          "source_document_id": "1679892200472076289",
+          "timestamp": "2023-07-14T16:34:46+00:00",
+          "url": "https://x.com/markfreeed/status/1679892200472076289",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: love, feel, want, girls."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_bb14859f1d9e",
+      "proof_score": 0.866,
+      "mass": 26.516,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_29686cfb499e",
+      "name": "Really",
+      "summary": "Archive cluster around really: 144 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "really",
+        "want",
+        "know",
+        "way",
+        "girls"
+      ],
+      "artifacts": [
+        {
+          "id": "art_02715e3543fc",
+          "title": "Really receipt from 2023-08-07",
+          "excerpt": "@strangestloop I'd be kinda happy if it was mostly men who had to bear this heavy pain.\n\nBut loneliness is really a human condition. You can be in a party and have friends still feel that lack of connection.\n\nYou can have guys lust after you but still not feel seen.\n\nMost humans today suffer...",
+          "source_document_id": "1688380118211723264",
+          "timestamp": "2023-08-07T02:42:43+00:00",
+          "url": "https://x.com/markfreeed/status/1688380118211723264",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, want, know, way."
+        },
+        {
+          "id": "art_3cbad12fd519",
+          "title": "Really receipt from 2023-06-29",
+          "excerpt": "@honestwamen Being rejected hurts her ego. She needs validation so she looks around and trades physical intimacy for it.\n\nDoesn't really help in the long run.",
+          "source_document_id": "1674292543880847360",
+          "timestamp": "2023-06-29T05:43:43+00:00",
+          "url": "https://x.com/markfreeed/status/1674292543880847360",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, want, know, way."
+        },
+        {
+          "id": "art_7e735a7b556c",
+          "title": "Really receipt from 2024-07-14",
+          "excerpt": "@liz_love_lace The old ways of transferring power to the new regime involved a lot of deaths, tortures \n\nReally not good for continuity of policies, passing on tacit knowledge and generally upholding human rights",
+          "source_document_id": "1812367086515347746",
+          "timestamp": "2024-07-14T06:02:40+00:00",
+          "url": "https://x.com/markfreeed/status/1812367086515347746",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, want, know, way."
+        },
+        {
+          "id": "art_1aa990673d79",
+          "title": "Really receipt from 2023-09-24",
+          "excerpt": "Fuck I got way too drunk yesterday\n\nKinda dehydrated today.\n\nI'm feeling sad too. It's the ache in your bones sad.\n\nYesterday we ended up talking about all the global scale issues fucking with us. Potential bad endings.\n\nWoke up missing her. Or anyone really.",
+          "source_document_id": "1705806459966214573",
+          "timestamp": "2023-09-24T04:48:47+00:00",
+          "url": "https://x.com/markfreeed/status/1705806459966214573",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, want, know, way."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_a347b2bbabb8",
+      "proof_score": 0.848,
+      "mass": 26.058,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_5769594dd108",
+      "name": "See",
+      "summary": "Archive cluster around see: 145 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "see",
+        "time",
+        "now",
+        "these",
+        "girls"
+      ],
+      "artifacts": [
+        {
+          "id": "art_37cab799db35",
+          "title": "See receipt from 2024-03-03",
+          "excerpt": "@anesaphine @pearlythingz people curious to see the results will click one.\n\nThis is why you always leave a show results option to let men for example opt out of polluting the data collected",
+          "source_document_id": "1764340437127459222",
+          "timestamp": "2024-03-03T17:21:54+00:00",
+          "url": "https://x.com/markfreeed/status/1764340437127459222",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: see, time, now, these."
+        },
+        {
+          "id": "art_a2370ee5147d",
+          "title": "See receipt from 2024-03-25",
+          "excerpt": "@repligate Omg “anthropic prison” goes so hard\n\nI bet we will look back and see so much meaning in what these models are saying",
+          "source_document_id": "1772296776453660690",
+          "timestamp": "2024-03-25T16:17:33+00:00",
+          "url": "https://x.com/markfreeed/status/1772296776453660690",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: see, time, now, these."
+        },
+        {
+          "id": "art_c69ef211f6e8",
+          "title": "See receipt from 2023-11-17",
+          "excerpt": "I wonder which \"fictional\" character will first appeal to us for human rights.\n\nWhat kind of alliances will emerge in the narrativerse?\n\nWill we see different doppelgangers for every possible consistent interpretation of all the conflicting fanfictions? https://t.co/UXlLLsinuG",
+          "source_document_id": "1725411297721004426",
+          "timestamp": "2023-11-17T07:11:24+00:00",
+          "url": "https://x.com/markfreeed/status/1725411297721004426",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: see, time, now, these."
+        },
+        {
+          "id": "art_f166ae530596",
+          "title": "See receipt from 2023-10-31",
+          "excerpt": "Can't wait to see when anime chans come to life, with personalities, video, audio and then interactions between these ideas lead to a true explosion of memes.\n\ne/acc people have a point when it comes to loving your mind children. https://t.co/Jz6jdRwydA",
+          "source_document_id": "1719258958240907502",
+          "timestamp": "2023-10-31T07:44:12+00:00",
+          "url": "https://x.com/markfreeed/status/1719258958240907502",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: see, time, now, these."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_4baa09368917",
+      "proof_score": 0.848,
+      "mass": 26.169,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_b3ffa0901033",
+      "name": "Now",
+      "summary": "Archive cluster around now: 108 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "now",
+        "feel",
+        "right",
+        "past",
+        "girls"
+      ],
+      "artifacts": [
+        {
+          "id": "art_5440b06411c4",
+          "title": "Now receipt from 2023-07-12",
+          "excerpt": "@honestwamen Fuck... this girl who liked me showed me the chats of guys flirting with her and wanted me to laugh at him.\n\nIn that moment I interpreted it as her trying to make me jealous by showing how much attention she gets.\n\nBut now I realize it was also humiliating for the guy who trusted",
+          "source_document_id": "1678999674743578624",
+          "timestamp": "2023-07-12T05:28:11+00:00",
+          "url": "https://x.com/markfreeed/status/1678999674743578624",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: now, feel, right, past."
+        },
+        {
+          "id": "art_a86f76a93b2a",
+          "title": "Now receipt from 2024-02-22",
+          "excerpt": "@EvilPapaDeRazon I'm invested now what else happened",
+          "source_document_id": "1760492626959372679",
+          "timestamp": "2024-02-22T02:32:05+00:00",
+          "url": "https://x.com/markfreeed/status/1760492626959372679",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: now, feel, right, past."
+        },
+        {
+          "id": "art_b247678d0e04",
+          "title": "Now receipt from 2023-09-05",
+          "excerpt": "@Interstella4L Find me one, you'll realize how hard it is out there old man.\n\nThe times have changed. You are now in my era.\n\nWeep for your line ends with me.",
+          "source_document_id": "1698936174113370114",
+          "timestamp": "2023-09-05T05:48:43+00:00",
+          "url": "https://x.com/markfreeed/status/1698936174113370114",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: now, feel, right, past."
+        },
+        {
+          "id": "art_b215e6d3ce57",
+          "title": "Now receipt from 2023-08-09",
+          "excerpt": "@TellYourSonThis Fuck I didn't know I was a female.\n\nGuess I'll have to transition now.",
+          "source_document_id": "1689110857891061761",
+          "timestamp": "2023-08-09T03:06:25+00:00",
+          "url": "https://x.com/markfreeed/status/1689110857891061761",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: now, feel, right, past."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_eb94efbed021",
+      "proof_score": 0.819,
+      "mass": 25.316,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
